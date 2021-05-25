@@ -58,7 +58,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  linkedIn : "areina1"
   name   : "First Lastname"
   avatar : "/assets/images/profile-picture.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
